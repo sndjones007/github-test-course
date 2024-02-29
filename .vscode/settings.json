@@ -1,6 +1,0 @@
-{
-    "notebook.lineNumbers": "on",
-    "files.exclude": {
-        "**/.git": false
-    }
-}
